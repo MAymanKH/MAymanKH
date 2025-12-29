@@ -26,7 +26,7 @@
 ## 🌐 Socials:
 <a href="mailto:mohamed.ayman.khodeir@gmail.com"><img src="https://img.shields.io/badge/Email-%231877F2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" width="80" style="border-radius:5%"/></a>
 <a href="https://linkedin.com/in/mohamed-ayman-khodeir"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" width="85.5" style="border-radius:5%"/></a>
-<a href="https://t.me/MAyman007"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" width="107" style="border-radius:5%"/></a>
+<a href="https://t.me/MAymanKH"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" width="107" style="border-radius:5%"/></a>
 <br> <a href="https://discordapp.com/users/543172445155098624"><img src="https://dcbadge.vercel.app/api/shield/543172445155098624" alt="Discord" width="175" style="border-radius:5%"/></a>
 
 ## 💻 Tech Stack:
