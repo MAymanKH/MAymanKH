@@ -15,7 +15,7 @@
 
  - 💛 *Love for learning new things.*
 
- - ⭐ *Passionate wannabe software developer.*
+ - ⭐ *Passionate wannabe software engineer.*
 </div>
 
 <br>
