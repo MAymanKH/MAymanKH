@@ -13,11 +13,9 @@
 
  - 🐍 *Python Enjoyer.*
 
- - 💛 *Love for learning new things.*
+ - 🔷️ *I use Arch BTW.*
 
  - ⭐ *Passionate wannabe software engineer.*
-
- - 🔷️ *I use Arch BTW.*
 </div>
 
 <br>
