@@ -16,6 +16,8 @@
  - 💛 *Love for learning new things.*
 
  - ⭐ *Passionate wannabe software engineer.*
+
+ - 🔷️ *I use Arch BTW.*
 </div>
 
 <br>
