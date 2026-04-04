@@ -8,8 +8,9 @@
 </div>
 
 <div align="left">
+  
  - ⭐ *Passionate wannabe software engineer.*
-
+  
  - 📱 *Flutter Developer.*
 
  - 🐍 *Python Enjoyer.*
