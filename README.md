@@ -8,14 +8,13 @@
 </div>
 
 <div align="left">
+ - ⭐ *Passionate wannabe software engineer.*
 
  - 📱 *Flutter Developer.*
 
  - 🐍 *Python Enjoyer.*
 
  - 🔷️ *I use Arch BTW.*
-
- - ⭐ *Passionate wannabe software engineer.*
 </div>
 
 <br>
