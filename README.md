@@ -9,11 +9,11 @@
 
 <div align="left">
   
- - ⭐ *Passionate wannabe software engineer.*
-  
  - 📱 *Flutter Developer.*
 
  - 🐍 *Python Enjoyer.*
+
+ - ⭐ *Wannabe Software Engineer.*
 
  - 🔷️ *I use Arch BTW.*
 </div>
